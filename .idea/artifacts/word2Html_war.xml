@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="word2Html:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="word2Html.war">
+      <element id="artifact" artifact-name="word2Html:war exploded" />
+    </root>
+  </artifact>
+</component>
